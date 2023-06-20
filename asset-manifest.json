@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/defence-vidya/static/css/main.8e3649d9.css",
+    "main.js": "/defence-vidya/static/js/main.06b96459.js",
+    "static/js/787.cda612ba.chunk.js": "/defence-vidya/static/js/787.cda612ba.chunk.js",
+    "static/media/Home Army.mp4": "/defence-vidya/static/media/Home Army.2c1a441d89f51d80b56f.mp4",
+    "static/media/defenceBg.jpg": "/defence-vidya/static/media/defenceBg.d5f4de835a0513ccbbd6.jpg",
+    "static/media/contactPageBg.png": "/defence-vidya/static/media/contactPageBg.f5bcb42da1e68ad54f90.png",
+    "static/media/StudyBg.jpg": "/defence-vidya/static/media/StudyBg.7f45d09effa1fbe582b8.jpg",
+    "static/media/clientImage.jpg": "/defence-vidya/static/media/clientImage.12b20c076b5c6c994c3c.jpg",
+    "static/media/thumbnail1.png": "/defence-vidya/static/media/thumbnail1.aa2e843d9fbe7ca4c894.png",
+    "static/media/thumbnail2.png": "/defence-vidya/static/media/thumbnail2.f0d946466826424ce681.png",
+    "static/media/armybackground.jpg": "/defence-vidya/static/media/armybackground.b0e3d6f4b93713057e8e.jpg",
+    "static/media/thumbnail3.png": "/defence-vidya/static/media/thumbnail3.37d97791f2fe780c7e41.png",
+    "static/media/StudyMaterialHeaderImg.jpg": "/defence-vidya/static/media/StudyMaterialHeaderImg.cd82e8e33b8559fbc461.jpg",
+    "static/media/StudyMaterialArmyBg.jpg": "/defence-vidya/static/media/StudyMaterialArmyBg.cf3c8c03b922c0ca1f45.jpg",
+    "static/media/learningPlatform.png": "/defence-vidya/static/media/learningPlatform.0871605b84f1548ca3bd.png",
+    "static/media/error404.png": "/defence-vidya/static/media/error404.498859f47555e4f5d4ba.png",
+    "static/media/boy2.jpg": "/defence-vidya/static/media/boy2.a6fd378b76a05f2b0fb6.jpg",
+    "static/media/whyusimg.png": "/defence-vidya/static/media/whyusimg.dfea0f542e8af6e15494.png",
+    "static/media/girl1.jpg": "/defence-vidya/static/media/girl1.f1169714e242271ff21d.jpg",
+    "static/media/girl2.jpg": "/defence-vidya/static/media/girl2.d26285e1143b26d793ef.jpg",
+    "static/media/blacklogo.png": "/defence-vidya/static/media/blacklogo.8f929065993cd1047306.png",
+    "static/media/acheivement2.png": "/defence-vidya/static/media/acheivement2.f921aad07c6cbb698e79.png",
+    "static/media/whitelogo.png": "/defence-vidya/static/media/whitelogo.77de660d83e2a9d40580.png",
+    "static/media/girl3.jpg": "/defence-vidya/static/media/girl3.8c640c659623d8e0be57.jpg",
+    "static/media/boy1.jpg": "/defence-vidya/static/media/boy1.3d0738c91363223ed91e.jpg",
+    "static/media/acheivement1.png": "/defence-vidya/static/media/acheivement1.22181f58cc144cc02e0b.png",
+    "static/media/testimonial1.jpeg": "/defence-vidya/static/media/testimonial1.f05f88eb95f02d5f473b.jpeg",
+    "static/media/testimonial3.jpeg": "/defence-vidya/static/media/testimonial3.c62d59155a0f5f96bac4.jpeg",
+    "static/media/testimonial2.jpeg": "/defence-vidya/static/media/testimonial2.610aa7b034cbe6b272db.jpeg",
+    "static/media/acheivement4.png": "/defence-vidya/static/media/acheivement4.2ec1eacadf68ec82ad48.png",
+    "static/media/acheivement3.png": "/defence-vidya/static/media/acheivement3.a428f78615e9bdcac30d.png",
+    "index.html": "/defence-vidya/index.html",
+    "main.8e3649d9.css.map": "/defence-vidya/static/css/main.8e3649d9.css.map",
+    "main.06b96459.js.map": "/defence-vidya/static/js/main.06b96459.js.map",
+    "787.cda612ba.chunk.js.map": "/defence-vidya/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e3649d9.css",
+    "static/js/main.06b96459.js"
+  ]
+}
