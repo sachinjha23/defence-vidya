@@ -1,0 +1,39 @@
+.admin-dashboard{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+    padding: 4rem 3rem;
+}
+.admin-welcome-box{
+    width: 97%;
+    border-radius: 8px;
+    padding: 2rem 2rem;
+    background: linear-gradient(to right , #0097B2 0%, white 70%);
+    /* height: 500px; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 4rem;
+    flex-wrap: wrap;
+}
+.admin-welcome-box-text{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+.admin-welcome-box-text h2 span , .admin-welcome-box-text h1 span{
+    color: white;
+}
+.admin-welcome-box-text p{
+    font-size: 12px;
+    max-width: 500px;
+}
+.admin-dashboard-main{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 3rem;
+    flex-wrap: wrap;
+}

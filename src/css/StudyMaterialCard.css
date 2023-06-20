@@ -1,0 +1,45 @@
+.study-material-card{
+    background-color: rgb(247, 247, 247);
+    border-radius: 6px;
+    padding: 1.5rem 1.5rem;
+    width: 230px;
+    height: 290px;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    transition: 0.3s;
+    gap: 0.5rem;
+}
+.study-material-card-circle{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: #0097B2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.study-material-card-circle .icon{
+    width: 30px;
+    height: 30px;
+}
+.study-material-card .btn-a-solid{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 12px;
+    padding: 0.3rem 1rem;
+    margin-top: 1rem;
+}
+.study-material-card p{
+    font-size: 12px;
+    text-align: center;
+}
+.study-material-card:hover{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    background-color: #0097B2;
+    color: white;
+}

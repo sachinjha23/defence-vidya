@@ -1,0 +1,78 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    background-color: rgba(0, 128, 128);
+    position: relative;
+    width: 100%;
+}
+.footer-top{
+    padding: 3rem 3rem;
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+    flex-wrap: wrap;
+}
+.footer-column{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    max-width: 300px;
+}
+.first-column{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    gap: 1rem;
+    color: white;
+}
+.first-column img{
+    width: 150px;
+}
+.contact-field{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    gap: 0.5rem;
+}
+.contact-field-icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.third-column p{
+    font-size: 12px;
+    max-width: 300px;
+}
+.social-media-links{
+    display: flex;
+    gap: 2rem;
+    flex-wrap: wrap;
+}
+.social-media-icon{
+    width: 60px;
+    height: 60px;
+    color: white;
+}
+.download-field{
+    display: flex;
+    gap: 3rem;
+}
+.download-field .download-app-icon{
+    width: 40px;
+    height: 40px;
+    color: white;
+}
+.footer-bottom{
+    text-align: center;
+    color: white;
+    padding-bottom:2rem;
+}
+.footer-bottom span a{
+    color: yellow;
+    font-family: 'Heebo', sans-serif;
+    letter-spacing: 0.1rem;
+}

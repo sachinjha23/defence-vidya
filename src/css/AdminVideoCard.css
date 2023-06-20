@@ -1,0 +1,54 @@
+
+.admin-video-card{
+    width: 280px;
+    height:300px;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    box-shadow: rgba(100, 100, 111, 0.6) 0px 7px 29px 0px;
+    border-radius: 8px;
+    padding: 1rem 1rem;
+}
+.admin-video-card img{
+    width: 250px;
+    height: 130px;
+    object-fit: cover;
+}
+.admin-video-card p{
+    font-size: 12px;
+}
+.admin-video-card-btns{
+    width: 100%;
+    display: flex;
+    gap: 2rem;
+}
+
+
+
+.edit-screen{
+    width: 100%;
+    min-height: 100vh;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0%;
+    z-index: 10000000;
+    left: 0%;
+}
+.edit-video-form{
+    background-color: black;
+    padding: 2rem 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    border-radius: 8px;
+    color: #0097B2;
+    position: relative;
+}
+.edit-video-form .input-box .input-field{
+    color: white;
+}
+textarea{
+    resize: none;
+}

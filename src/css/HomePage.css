@@ -1,0 +1,120 @@
+.home-header{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+}
+.home-header video{
+    position: absolute;
+    top: 0%;
+    object-fit: fill;
+}
+.home-header::before{
+    content: "";
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 128, 128, 0.347);
+    z-index: 100;
+}
+.home-header-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    color: white;
+    position: relative;
+    text-align: center;
+    z-index: 101;
+}
+.home-header-text h1{
+    font-family: 'Heebo', sans-serif;
+    letter-spacing: 0.1rem;
+}
+.home-header-text p{
+    max-width: 500px;
+}
+.army-background{
+    width: 100%;
+    height: 100vh;
+    background: url("../Images/armybackground.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.brochure-section{
+    padding: 3rem 3rem;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 3rem;
+    flex-wrap: wrap;
+}
+.brochure-card{
+    width: 270px;
+    height: 290px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* border: 1px solid red; */
+    /* justify-content: center; */
+    padding: 1rem 1rem;
+    box-shadow: rgba(100, 100, 111, 0.6) 0px 7px 29px 0px;
+    border-radius: 8px;
+    text-align: center;
+    /* gap: 1rem; */
+}
+.brochure-card img{
+    width: 250px;
+    height: 130px;
+}
+.brochure-card h4{
+    margin-top: 1rem;
+}
+.brochure-card p{
+    font-size: 10px;
+    margin-bottom: 1rem;
+}
+.brochure-card button{
+    transform: translateY(7px);
+    border: 2px solid yellowgreen;
+    /* color: yellowgreen; */
+    background-color: yellowgreen;
+}
+
+.client-change-image-section{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    margin: 3rem 0;
+}
+.client-change-image-section img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
+/* RESPONSIVNESS */
+@media screen and (max-width:650px) {
+    .home-header-text h1{
+        font-size: 4rem;
+    }
+    .home-header-text p{
+        max-width: 400px;
+        font-size: 12px;
+    }
+}
+@media screen and (max-width:400px) {
+    .home-header{
+        padding: 0 2rem;
+    }
+}

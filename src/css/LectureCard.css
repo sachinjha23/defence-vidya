@@ -1,0 +1,28 @@
+.lecture-card{
+    width: 270px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    padding: 1rem 1rem;
+    border-radius: 8px;
+    gap: 1rem;
+    box-shadow: rgba(100, 100, 111, 06) 0px 7px 29px 0px;
+}
+.lecture-card img{
+    width: 250px;
+    object-fit: cover;
+    height: 130px;
+}
+.lecture-card .btn-a-solid{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    width: 70%;
+    padding: 0.3rem 1rem;
+}
+.lecture-card p{
+    font-size: 10px;
+}
